@@ -1,7 +1,7 @@
 # Discord Görev Botu
 
 Merhaba! Bu proje tamamen eğlence amaçlı yazılmıştır :) 
-
+çalıştımak için .env dosyasını özelden isteyiniz yoksa kendi discord token hazırlamanız gerekmektedir. 
 ## Nasıl Çalıştırılır
 
 Önce gereken paketleri kurun:
