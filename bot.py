@@ -21,6 +21,7 @@ os.makedirs('images', exist_ok=True)
 @bot.event
 async def on_ready():
     print(f'{bot.user} olarak giriş yapıldı!')
+    print("deneme ")
 
 @bot.command(name='add_task')
 async def add_task(ctx, *, description: str):
